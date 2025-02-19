@@ -1,5 +1,4 @@
-#   
-Watch Store Backend
+## **Ecommerce Backend**
 
 Welcome to the documentation for the Watch Store Backend! This backend is built from the ground up using  **Express.js**  and is designed to provide a robust, secure, and scalable solution for managing a watch store. Below is an overview of the features, architecture, and implementation details, including the SQL code to generate the required database tables.
 
